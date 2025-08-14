@@ -28,7 +28,7 @@ Just generate a joke bruh
 
 ### Links
 
--   Live Site URL: [Live site URL](https://frontend-mentor-social-links-card.netlify.app/)
+-   Live Site URL: [Live site URL](https://daddy-joke-generator.netlify.app/)
 
 ## My process
 
@@ -39,7 +39,4 @@ Just generate a joke bruh
 -   Flexbox
 -   CSS Grid
 -   Mobile-first workflow
-
-## Author
-
--   Frontend Mentor - [@kvncodes](https://www.frontendmentor.io/profile/kvncodes)
+-   API (fetch from "https://icanhazdadjoke.com")
