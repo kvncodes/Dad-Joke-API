@@ -26,13 +26,8 @@ Thanks for checking out this amazing generator.💀
 
 Just generate a joke bruh
 
-### Screenshot
-
-![](Result.png)
-
 ### Links
 
--   Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/social-links-card-62tKKYz4n3)
 -   Live Site URL: [Live site URL](https://frontend-mentor-social-links-card.netlify.app/)
 
 ## My process
